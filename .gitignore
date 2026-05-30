@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+ 
+dataset-original/
+dataset-eda/
+.DS_Store
+*.h5
+*.keras
